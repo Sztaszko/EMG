@@ -2,8 +2,9 @@
 Receiving EMG signal within the project of TechMed Science Club in AGH Cracow.
 
 
-# python_serial_reader
+<b>python_serial_reader.py 
 options:
+
 -o --output-file ;filename of force and log file. File containing EMG signal will have additional "_emg" in name. All data is saved in CSV.
 
 -p --serial-port1 ;name of serial port for force. For example COM5
